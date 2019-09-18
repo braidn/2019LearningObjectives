@@ -7,4 +7,4 @@ This Repo currently is utilizing the following technologies:
 1. Elixir: Something fast, that I learned forever ago. Re-familliarizing myself this year.
 1. ReasonML: Current favorite compile to JS language.
 1. Reason-React: React like wrapper over Reason.
-1. Packal: Because why would you need all that extra webpack generated code?
+1. Parcel: Because why would you need all that extra webpack generated code?
